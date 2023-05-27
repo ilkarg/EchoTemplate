@@ -1,0 +1,1 @@
+go build ../main.go ../structs.go ../logic.go ../routes.go ../middlewares.go ../auth_controller.go
